@@ -7,21 +7,10 @@
     <string>File Status</string>
     <string>Branches</string>
     <string>Remotes</string>
-    <string>Remotes/kleun56_mvc5</string>
   </SidebarExpandedItems>
   <SidebarWidth>140</SidebarWidth>
   <AutoRefreshRemotes>true</AutoRefreshRemotes>
-  <LastCheckedRemotes>2014-04-29T13:26:17.6508276-04:00</LastCheckedRemotes>
-  <RemoteProjectLinks>
-    <RepositoryRemoteProjectLink>
-      <Type>Bitbucket</Type>
-      <BaseUrl>https://www.bitbucket.org</BaseUrl>
-      <RemoteName>kleun56_mvc5</RemoteName>
-      <Username>kleun56</Username>
-      <Identifier>notification/create?owner=polyturn&amp;repository=aspx45&amp;token=3f2b05bc7357dac149ef3ea71ba4abe</Identifier>
-    </RepositoryRemoteProjectLink>
-  </RemoteProjectLinks>
-  <CommitTextLinks />
+  <LastCheckedRemotes>2014-04-29T01:10:49.6070335-04:00</LastCheckedRemotes>
   <SubtreeLinks />
   <IncomingSavedCount>0</IncomingSavedCount>
   <OutgoingSavedCount>0</OutgoingSavedCount>
